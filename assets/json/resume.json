@@ -227,58 +227,6 @@
     { "language": "French", "fluency": "Intermediate (B1)" },
     { "language": "German", "fluency": "Beginner (A2)" }
   ],
-  "publications": [
-    {
-      "name": "Living Light",
-      "publisher": "Engen Books",
-      "releaseDate": "2021",
-      "url": "",
-      "summary": "Short story in *Undead Rebirth* anthology (pp. 23–27, ISBN 9781774780619)."
-    },
-    {
-      "name": "New Employment",
-      "publisher": "Engen Books",
-      "releaseDate": "2021",
-      "summary": "Short story in *Undead Rebirth* anthology (pp. 155–159)."
-    },
-    {
-      "name": "In the Rising Flame",
-      "publisher": "Engen Books",
-      "releaseDate": "2019",
-      "summary": "Short story in *Dystopia From The Rock* (pp. 58–60, ISBN 978-1-926903-96-5)."
-    },
-    {
-      "name": "Dark Peaks",
-      "publisher": "Engen Books",
-      "releaseDate": "2018",
-      "summary": "Short story in *Chillers From The Rock* (pp. 36–44, ISBN 978-1-926903-74-3)."
-    },
-    {
-      "name": "Familiar Things",
-      "publisher": "Engen Books",
-      "releaseDate": "2018",
-      "summary": "Short story in *Kit Sora the Artobiography* (p. 70, ISBN 978-1-926903-86-6)."
-    },
-    {
-      "name": "Precious Pieces Unknown",
-      "publisher": "Engen Books",
-      "releaseDate": "2017",
-      "summary": "Short story in *Fantasy From The Rock* (pp. 123–132, ISBN 978-1-926903-34-7)."
-    },
-    {
-      "name": "The Locket",
-      "publisher": "Engen Books",
-      "releaseDate": "2015",
-      "summary": "Short story in *Sci-Fi From The Rock* (pp. 56–59, ISBN 978-1-926903-29-3)."
-    }
-  ],
-  "interests": [
-    { "name": "Mathematics Research" },
-    { "name": "Category Theory" },
-    { "name": "Fiction Writing" },
-    { "name": "Martial Arts (Tae-Kwon-Do)" },
-    { "name": "Music and Drumming" }
-  ],
   "certificates": [
     {
       "name": "Third Degree Black Belt",
