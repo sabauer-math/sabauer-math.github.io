@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "sabauer-math/samuelbauer.github.io",
+    "data-repo": "sabauer-math/sabauer-math.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
