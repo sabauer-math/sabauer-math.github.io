@@ -292,6 +292,7 @@ scholar:
 
   query: "@*"
   group_by: type, year
+  type_names: {incollection: 'Short Stories'}
   group_order: descending
 
 # Display different badges withs stats for your publications
