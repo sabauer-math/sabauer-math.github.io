@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Below are my important academic publications.
+description: Below are my academic and fiction publications.
 nav: true
 nav_order: 2
 ---
