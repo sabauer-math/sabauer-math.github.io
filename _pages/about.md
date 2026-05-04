@@ -24,8 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a mathematician based in Hamburg, recently graduated with a Master’s in Mathematics from Universität Hamburg. I am primarily interested in abstract algebra and category theory. My most recent work is on deformations of symmetric Frobenius algebras and structures on the category of functors between Grothendieck-Verdier Categories and was under the supervision of [<ins> Christoph Schweigert</ins>](https://www.math.uni-hamburg.de/home/schweigert/). I will be starting my Doctorate in Mathematics under Prof. Schweigert in May.  
+I am a Doctorand in Mathematics at the University of Hamburg. I am primarily interested in abstract algebra and category theory. My most recent work is on deformations of symmetric Frobenius algebras and structures on the category of functors between Grothendieck-Verdier Categories and was under the supervision of [<ins> Christoph Schweigert</ins>](https://www.math.uni-hamburg.de/home/schweigert/).  
 
 **Contact Info:**
 
-sabauer (dot) math (at) gmail.com
+Universität Hamburg
+Fachbereich Mathematik
+Bundesstrasse 55
+D-20146 Hamburg
+Raum 335
+samuel (dot) bauer (at) uni-hamburg.de
