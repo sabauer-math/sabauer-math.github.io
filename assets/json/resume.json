@@ -2,7 +2,7 @@
   "basics": {
     "name": "Samuel A. Bauer",
     "label": "Mathematician & Researcher",
-    "email": "sabauer(dot)math(at)gmail.com",
+    "email": "samuel(dot)bauer(at)uni-hamburg.de",
     "location": {
       "city": "Hamburg",
       "country": "Germany"
@@ -19,9 +19,17 @@
     {
       "institution": "Universität Hamburg",
       "location": "Hamburg, Germany",
+      "studyType": "Doctorate of Mathematics",
+      "startDate": "2026-05",
+      "endDate": "",
+      "area": "Algebra and Category Theory"
+    },
+    {
+      "institution": "Universität Hamburg",
+      "location": "Hamburg, Germany",
       "studyType": "Master of Mathematics",
       "startDate": "2022-10",
-      "endDate": "",
+      "endDate": "2025-11",
       "area": "Algebra and Category Theory",
       "thesis": {
         "title": "Grothendieck-Verdier Functor Categories and Deformations of Symmetric Frobenius Algebras",
