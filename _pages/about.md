@@ -29,8 +29,13 @@ I am a Doctorand in Mathematics at the University of Hamburg. I am primarily int
 **Contact Info:**
 
 Universität Hamburg
+
 Fachbereich Mathematik
+
 Bundesstrasse 55
+
 D-20146 Hamburg
+
 Raum 335
+
 samuel (dot) bauer (at) uni-hamburg.de
