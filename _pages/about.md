@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Doctorand in Mathematics at the University of Hamburg. I am primarily interested in abstract algebra and category theory. My most recent work is on deformations of symmetric Frobenius algebras and structures on the category of functors between Grothendieck-Verdier Categories and was under the supervision of [<ins> Christoph Schweigert</ins>](https://www.math.uni-hamburg.de/home/schweigert/).  
+I am a Doctorand in Mathematics at the University of Hamburg, in association with the Quantum Universe Research School (QURS). I am primarily interested in abstract algebra and category theory. My most recent work is on deformations of symmetric Frobenius algebras and structures on the category of functors between Grothendieck-Verdier Categories. This work is under the supervision of [<ins> Christoph Schweigert</ins>](https://www.math.uni-hamburg.de/home/schweigert/).   
+
+I have given a brief interview for QURS [<ins> here</ins>](https://www.qu.uni-hamburg.de/qurs/membership/interviews/26-08-samuel-bauer.html). 
 
 **Contact Info:**
 
